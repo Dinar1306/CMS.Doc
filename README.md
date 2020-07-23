@@ -1,5 +1,5 @@
 # CMS.Doc
-Content management system for quality management system of the organisation (pet project) 
+Content management system for quality management system of the organization (pet project) 
 
 Working version 15/07/2020
 
